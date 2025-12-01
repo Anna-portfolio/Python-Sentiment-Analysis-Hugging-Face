@@ -1,4 +1,4 @@
-Python-Sentiment-Analysis-Hugging Face
+Python-Sentiment-Analysis-Hugging Face<br><br>
 Created by @Anna-portfolio
 
 NLP project in Python: Sentiment analysis classifier for Rotten Tomatoes reviews using a Naive Bayes model (scikit-learn), spaCy, and Matplotlib.
